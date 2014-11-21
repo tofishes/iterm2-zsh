@@ -4,7 +4,8 @@ iterm2-zsh
 one theme  resource for iterm2+ohmyzsh
 
 ### How to use
-see: [http://cssor.com/mac-osx-config-theme-for-iterm2-oh-my-zsh.html](http://cssor.com/mac-osx-config-theme-for-iterm2-oh-my-zsh.html)
+first: install the fonts patch
+then see: [http://cssor.com/mac-osx-config-theme-for-iterm2-oh-my-zsh.html](http://cssor.com/mac-osx-config-theme-for-iterm2-oh-my-zsh.html)
 
 ### Reference
 * [oh my zsh theme list](https://github.com/robbyrussell/oh-my-zsh/wiki/themes)
