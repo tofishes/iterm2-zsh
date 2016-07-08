@@ -10,7 +10,7 @@ rbenv_version() {
 }
 
 PROMPT='
-%{$fg_bold[red]%}@ToFishes⌚ %{$fg_bold[red]%}%* %{$fg_bold[green]%}➜ %{$fg_bold[blue]%}${PWD/#$HOME/~}%{$reset_color%}$(git_prompt_info) %{$reset_color%}$ '
+🐳%{$fg[yellow]%}*%{$fg_bold[red]%}%n% ⌚ %{$fg_bold[red]%}%* %{$fg_bold[green]%}➜ %{$fg_bold[blue]%}${PWD/#$HOME/~}%{$reset_color%}$(git_prompt_info) %{$reset_color%}$ '
 
 ZSH_THEME_GIT_PROMPT_PREFIX=" %{$fg[magenta]%}⭠ "
 ZSH_THEME_GIT_PROMPT_SUFFIX="%{$reset_color%}"
